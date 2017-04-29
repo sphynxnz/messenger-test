@@ -2,6 +2,6 @@
     "appSecret": "S1kr3t0",
     "pageAccessToken": "EAAKTRfh8i4IBAEaNhKL5pfpZBp4TrsZAZBs0ufL9KscJKMzYVg8aU9vZAKNd7DNreZBdI7ZBGCTCASjOs5sMJECZCicRFd3G7gX0DjdV8SFGyZBpInOGiPJpgWpeqc3SRGTn2i4wEpBrXn2ZAHuhIP0a8ZBfeVeSQ9V6Riy9IfZAS4v989k8OnZAExZBx",
     "validationToken": "V4l1d@t10nT0k3n",
-    "serverURL": "https://messenger-test.herokuapp.com/",
+    "serverURL": "https://messenger-sphynxnz-test.herokuapp.com/",
     "port": 7800
 }
