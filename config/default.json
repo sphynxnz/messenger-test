@@ -1,0 +1,7 @@
+{
+    "appSecret": "secret",
+    "pageAccessToken": "token",
+    "validationToken": "vtoken",
+    "serverURL": "http://dummy.com/url",
+    "port": 7800
+}
